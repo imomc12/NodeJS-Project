@@ -1,0 +1,18 @@
+{
+  "name": "maximo",
+  "version": "1.0.0",
+  "description": "W3 Activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "imomc"
+  },
+  "keywords": [
+    "imomc"
+  ],
+  "author": "imomc",
+  "license": "ISC"
+}
