@@ -4,6 +4,7 @@
   "description": "W3 Activity",
   "main": "index.js",
   "scripts": {
+    "hello":"node helloworld.js",
     "test": "start"
   },
   "repository": {
